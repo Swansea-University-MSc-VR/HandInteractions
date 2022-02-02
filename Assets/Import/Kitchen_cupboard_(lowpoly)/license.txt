@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kitchen cupboard (lowpoly)
+* source:	https://sketchfab.com/3d-models/kitchen-cupboard-lowpoly-696b2605f4b04472a9db58912f0695fb
+* author:	Zuckergelee (https://sketchfab.com/knorke)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kitchen cupboard (lowpoly)" (https://sketchfab.com/3d-models/kitchen-cupboard-lowpoly-696b2605f4b04472a9db58912f0695fb) by Zuckergelee (https://sketchfab.com/knorke) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
